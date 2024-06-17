@@ -1,0 +1,146 @@
+#first{
+ background-image: url("white.jpg");
+ background-size:crop;
+ background-attachment: fixed;
+}
+
+.one{
+    height:300px;
+    display: flex;
+    flex-direction: row; 
+    justify-content:space-between;
+    
+}
+
+.two{
+    height:250px;
+    width: 250px;
+    border: 2px solid black;
+    margin:15px;
+    text-align: center;
+    margin-left: 70px;
+    background-color: rgba(255, 228, 196, 0.87);
+    border-radius: 30px;
+}
+
+.three{
+    height:250px;
+    width: 250px;
+    text-align: center;
+    border: 2px solid black;
+    margin:15px;
+    margin-right: 70px;
+    background-color: rgba(255, 235, 205, 0.849);
+    border-radius: 30px;
+}
+
+.img{
+    margin-top: 25px;
+}
+
+.four{
+    margin-top: 30px;
+    
+}
+
+.five{
+    height:450px;
+    display: flex;
+}
+
+.six{
+    height:350px;
+    width:300px;
+    border: 2px solid black;
+    margin:20px;
+    margin-left: 150px;
+    padding: 10px;
+    margin-top: 30px;
+    background-color: rgba(255, 127, 80, 0.781);
+    text-align: center;
+    border-radius: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.seven{
+    height:350px;
+    width:300px;
+    border: 2px solid black;
+    margin:20px;
+    margin-left: 350px;
+    padding:10px;
+    margin-top: 30px;
+    background-color: rgba(210, 105, 30, 0.829);
+    text-align: center;
+    border-radius: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.eight{
+    height:300px;
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgba(0, 255, 55, 0.555);
+    border-radius: 200px;
+}
+
+.ten{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgba(255, 140, 0, 0.75);
+}
+
+.ten1{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin-left: 400px;
+    border-radius: 30px;
+    background-color: rgba(235, 220, 13, 0.644);
+}
+
+.nine{
+    margin:50px;  
+}
+
+#eight{
+    border:2px solid black;
+   display: flex;
+   margin:50px;
+   border-radius: 40px;
+   background-color: rgba(30, 143, 255, 0.659);
+   margin-bottom: 10px;
+}
+
+.last{
+    text-align: center;
+   padding-top: 60px;
+}
+ 
+.um{
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+button{
+    color:black;
+    background-color: darkorchid;
+}
+button:hover{
+    color: rgb(239, 11, 19);
+    background-color: rgba(244, 255, 84, 0.98);
+    transition: 1s;  
+}
+
+textarea{
+    color:rgb(88, 8, 237);
+}
+
+a:hover{
+    color:rgb(248, 5, 5);
+    background-color: rgb(240, 236, 30);
+}
